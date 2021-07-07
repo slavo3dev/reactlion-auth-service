@@ -1,7 +1,7 @@
 <p align="center">
   <img src="" width="200px" height="200px"/>
   </br>
-  <a href="https://slavo3">slavo3.y.io</a>
+  <a href="https://slavo3">slavo3</a>
   <br/>
 </p>
 <h1 align="center">Serverless Framework Auth0 Authorizer</h1>
